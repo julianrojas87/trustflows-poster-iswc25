@@ -27,7 +27,7 @@ Accepted for presentation at [ISWC 2025](https://iswc2025.semanticweb.org/#/prog
 
 ## How to build?
 
-Clone thjis repository and follow the instructions below.
+Clone this repository and follow the instructions below.
 
 Install the dependencies and run the development server:
 
