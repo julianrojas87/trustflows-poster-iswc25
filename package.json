@@ -1,8 +1,11 @@
 {
-  "name": "web-poster",
+  "name": "trustflows-poster-iswc25",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "author": {
+    "name": "Julián Rojas"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
